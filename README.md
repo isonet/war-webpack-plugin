@@ -1,4 +1,12 @@
-# war-webpack-plugin [![npm](https://img.shields.io/npm/v/war-webpack-plugin.svg?style=flat-square)](https://github.com/isonet/war-webpack-plugin)[![licence](https://img.shields.io/npm/l/war-webpack-plugin.svg?style=flat-square)](https://img.shields.io/npm/l/war-webpack-plugin.svg)
+[![npm](https://img.shields.io/npm/v/war-webpack-plugin.svg?style=flat-square)](https://github.com/isonet/war-webpack-plugin)[![licence](https://img.shields.io/npm/l/war-webpack-plugin.svg?style=flat-square)](https://img.shields.io/npm/l/war-webpack-plugin.svg)
+
+<div align="center">
+  <img width="200" height="200" src="https://cdn.rawgit.com/isonet/war-webpack-plugin/master/tomcat.svg">
+  <a href="https://github.com/webpack/webpack">
+    <img width="200" height="200" src="https://webpack.js.org/assets/icon-square-big.svg">
+  </a>
+  <h1>WAR webpack plugin</h1>
+</div>
 
 [NPM registry](https://www.npmjs.com/package/war-webpack-plugin)
 
