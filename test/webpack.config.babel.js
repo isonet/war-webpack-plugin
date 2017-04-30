@@ -31,7 +31,7 @@ export default {
         new WarPlugin({
             outputFile: './test/dist/test.war',
             files: ['./test/src/index.html'],
-            html5: ['/home', '/about']
+            html5: { paths: ['/home', '/about']}
         })
     ]
 };
