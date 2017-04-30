@@ -1,6 +1,6 @@
 {
   "name": "war-webpack-plugin",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Generate a Tomcat war from your webpack build result",
   "main": "index.js",
   "scripts": {

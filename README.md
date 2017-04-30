@@ -41,7 +41,7 @@ plugins: [
 |**`html5.paths`**|`{Array} of {String}`||Paths to rewrite to index.html.|
 |**`html5.jarUrl`**|`{String}`||If you would like to specifiy another location for tuckey's urlrewrite jar, eg. from your Nexus repository.|
 |**`html5.description`**|`{String}`||War application description.|
-|**`html5.dsiplayName`**|`{String}`||War application name.|
+|**`html5.displayName`**|`{String}`||War application name.|
 
 ## License
 
