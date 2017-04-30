@@ -5,7 +5,7 @@
   <a href="https://github.com/webpack/webpack">
     <img width="200" height="200" src="https://webpack.js.org/assets/icon-square-big.svg">
   </a>
-  <h1>WAR webpack plugin</h1>
+  <h1>WAR Webpack Plugin</h1>
 </div>
 
 [NPM registry](https://www.npmjs.com/package/war-webpack-plugin)
